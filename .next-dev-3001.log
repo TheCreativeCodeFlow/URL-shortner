@@ -1,0 +1,58 @@
+
+> universal-link-platform@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3001
+
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3001
+   - Network:      http://127.0.0.1:3001
+
+ ✓ Starting...
+ ✓ Ready in 1683ms
+ ○ Compiling / ...
+ ✓ Compiled / in 5.3s (1555 modules)
+ GET / 200 in 7031ms
+ GET / 200 in 246ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 669ms (1605 modules)
+ GET / 200 in 401ms
+ GET /dashboard 200 in 1243ms
+ ✓ Compiled /workspaces in 488ms (1616 modules)
+ GET /workspaces 200 in 832ms
+ ✓ Compiled /analytics in 287ms (1624 modules)
+ GET /analytics 200 in 561ms
+ ✓ Compiled /security in 311ms (1636 modules)
+ GET /security 200 in 576ms
+ ○ Compiling /pricing ...
+ ✓ Compiled /pricing in 832ms (1643 modules)
+ GET /pricing 200 in 1104ms
+ ✓ Compiled /login in 426ms (1653 modules)
+ GET /login 200 in 615ms
+ ✓ Compiled /signup in 413ms (1657 modules)
+ GET /signup 200 in 612ms
+ ✓ Compiled /settings in 445ms (1671 modules)
+ GET /settings 200 in 681ms
+ ✓ Compiled in 567ms (1685 modules)
+ GET /settings 200 in 91ms
+ GET /workspaces 200 in 231ms
+ GET /dashboard 200 in 201ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1673ms (1981 modules)
+ GET /dashboard 200 in 994ms
+ GET / 500 in 2341ms
+ GET /dashboard 200 in 184ms
+ GET /dashboard 200 in 290ms
+ GET /workspaces 200 in 180ms
+ ✓ Compiled /analytics in 302ms (1129 modules)
+ GET /analytics 200 in 640ms
+ ✓ Compiled /security in 187ms (1140 modules)
+ GET /security 200 in 428ms
+ ✓ Compiled /pricing in 399ms (1146 modules)
+ GET /pricing 200 in 625ms
+ ✓ Compiled /login in 241ms (1155 modules)
+ GET /login 200 in 412ms
+ ✓ Compiled /signup in 236ms (1159 modules)
+ GET /signup 200 in 426ms
+ GET /settings 200 in 143ms
+ GET / 200 in 317ms
+ ✓ Compiled in 431ms (2018 modules)
+ ✓ Compiled in 965ms (1936 modules)
